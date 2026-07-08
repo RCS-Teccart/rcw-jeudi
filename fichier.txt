@@ -1,1 +1,1 @@
-Je suis le fichier fichier.txt (autre changement par un autre utilisateur)
+Je suis le fichier fichier.txt (autre changement par un autre utilisateur) par le developpeur1
